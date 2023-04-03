@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75595274067",
+    "project_id": "authntication-f92cd",
+    "storage_bucket": "authntication-f92cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75595274067:android:3487142e980f7e6d53b3a6",
+        "android_client_info": {
+          "package_name": "com.example.jantagarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75595274067-8ttolo872ved9oaiv47n1c6bqf2pe6g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jantagarage",
+            "certificate_hash": "05a52b249cb7728721f1b43cbed23feea0ecb750"
+          }
+        },
+        {
+          "client_id": "75595274067-ibsbqqf1ku4uskdp5sq5388phs6uf0tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_96ZsXtI6T034hmCA7uc3MDm8KboJAy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75595274067-ibsbqqf1ku4uskdp5sq5388phs6uf0tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
